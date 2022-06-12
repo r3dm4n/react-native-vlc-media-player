@@ -9,9 +9,6 @@ import {
   Dimensions,
   TouchableOpacity,
   ActivityIndicator,
-  StatusBar,
-  BackHandler,
-  Modal,
   Platform,
 } from 'react-native';
 import VLCPlayer from '../VLCPlayer';
